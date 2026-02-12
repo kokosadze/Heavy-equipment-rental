@@ -1,4 +1,5 @@
-<img width="2250" height="1500" alt="03 Free Iphone 15 Pro On Concrete Brick Mockup" src="https://github.com/user-attachments/assets/4b7817c9-f9ad-4053-8384-259d84a087fe" />
+<img width="4000" height="3000" alt="ААЦУ" src="https://github.com/user-attachments/assets/41c6de93-0fd1-4406-8add-ae118d83cb43" />
+
 # 🚜 Heavy Equipment Rental
 
 A simple project for managing heavy equipment rental.
