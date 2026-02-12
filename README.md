@@ -1,4 +1,4 @@
-<img width="3000" height="3000" alt="ААЦУ" src="https://github.com/user-attachments/assets/41c6de93-0fd1-4406-8add-ae118d83cb43" />
+<img width="3000" height="2000" alt="ААЦУ" src="https://github.com/user-attachments/assets/41c6de93-0fd1-4406-8add-ae118d83cb43" />
 
 # 🚜 Heavy Equipment Rental
 
